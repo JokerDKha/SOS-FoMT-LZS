@@ -1,0 +1,1 @@
+quickbms.exe -G -w -r -r "%cd%\sosfomt_dcmp.bms" "%cd%\output" "%cd%\File-extract"

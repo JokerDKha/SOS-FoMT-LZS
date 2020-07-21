@@ -1,0 +1,10 @@
+get NAME filename
+string NAME + ".dcmp"
+get ZSIZE asize
+math ZSIZE - 4
+
+get SIZE long
+savepos OFFSET
+comtype lzss0
+
+clog NAME OFFSET ZSIZE SIZE

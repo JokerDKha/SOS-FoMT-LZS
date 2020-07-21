@@ -1,0 +1,1 @@
+quickbms.exe -G -w -r -r -r "%cd%\sosfomt_lzs.bms" "%cd%\lzs-here" "%cd%\output"
