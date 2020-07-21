@@ -24,3 +24,5 @@ Step 3: Run patch-2.bat
 Now your new file are repack in Folder "lzs-here"
 
 If something error make a Issues im will fix soon
+
+Source code form QuickBMS aluigi
