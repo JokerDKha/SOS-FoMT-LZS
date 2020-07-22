@@ -1,4 +1,4 @@
-# SOSLZS
+# SOS-FoMT-LZS
 Tool extract and repack file LZS Story of Season: Friend of Mineral Town (Switch - PC)
 
 How To Use:
