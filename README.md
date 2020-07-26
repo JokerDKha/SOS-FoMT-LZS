@@ -13,7 +13,7 @@ Now file is extract in Folder "File-extract"
 
 rePack:
 
-Step 1: Copy your file edit to Folder "File-extract"
+Step 1: Copy your file already edit to Folder "File-extract"
 
 Step 2: Run patch.bat
 
