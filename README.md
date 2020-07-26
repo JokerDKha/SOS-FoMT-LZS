@@ -7,9 +7,7 @@ Extract:
 
 Step 1: Copy your lzs file to Folder "lzs-here"
 
-Step 2: Run extract-1.bat 
-
-Step 3: Run extract-2.bat
+Step 2: Run extract.bat 
 
 Now file is extract in Folder "File-extract"
 
@@ -17,9 +15,7 @@ rePack:
 
 Step 1: Copy your file edit to Folder "File-extract"
 
-Step 2: Run patch-1.bat
-
-Step 3: Run patch-2.bat
+Step 2: Run patch.bat
 
 Now your new file are repack in Folder "lzs-here"
 
